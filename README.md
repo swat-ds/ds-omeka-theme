@@ -1,6 +1,6 @@
-# :tophat: Magic, Theory, Practice :rabbit:
+# DS @ Swarthmore Omeka Default Theme
 
-Course site for RELG 102: Magic, Theory, Practice. Professor Yvonne Chireau, Spring 2020
+Omeka Default Theme for Digital Scholarship at Swarthmore.
 
 Extends [Omeka Team's Big Picture Theme](https://github.com/omeka/theme-bigpicture)
 
